@@ -1,4 +1,4 @@
-yuge's webpage
+yuge's webpage.com
 
 <h1 align="center">
 AcadHomepage
